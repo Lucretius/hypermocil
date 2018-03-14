@@ -1,0 +1,19 @@
+{
+  "name": "hypermocil",
+  "version": "2.0.1",
+  "description": "Itermocil for HyperTerm",
+  "author": "Robert Lippens <rlippens39@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hypermocil",
+    "itermocil"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "uuid": "^3.2.1",
+    "yamljs": "^0.3.0"
+  }
+}
